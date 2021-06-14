@@ -1,8 +1,8 @@
 {
-  "name": "basic-flashcards-schemas",
+  "name": "basic-flashcards-common",
   "version": "0.0.0",
   "private": "true",
-  "description": "Schemas and types used in basic-flashcards.",
+  "description": "Types and schemas used in basic-flashcards.",
   "author": "Calvin Ling",
   "license": "MIT",
   "files": [
@@ -20,6 +20,7 @@
     "test": "jest"
   },
   "devDependencies": {
+    "@types/jest": "^26.0.23",
     "@typescript-eslint/eslint-plugin": "^4.26.1",
     "@typescript-eslint/parser": "^4.26.1",
     "eslint": "^7.28.0",
@@ -27,6 +28,8 @@
     "jest": "^27.0.4",
     "prettier": "^2.3.1",
     "rimraf": "^3.0.2",
+    "ts-jest": "^27.0.3",
+    "ts-node": "^10.0.0",
     "typescript": "^4.3.2"
   },
   "dependencies": {

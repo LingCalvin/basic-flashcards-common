@@ -1,6 +1,6 @@
-# basic-flashcards-schema
+# basic-flashcards-common
 
-Schemas and DTOs used by `basic-flashcards-server`.
+This package provides types and schemas used in basic-flashcards.
 
 ## Installing
 
@@ -8,5 +8,5 @@ Schemas and DTOs used by `basic-flashcards-server`.
 
 
 ```sh
-npm install git+https://github.com/LingCalvin/basic-flashcards-schemas.git
+npm install git+https://github.com/LingCalvin/basic-flashcards-common.git
 ```
