@@ -10,3 +10,7 @@ This package provides types and schemas used in basic-flashcards.
 ```sh
 npm install git+https://github.com/LingCalvin/basic-flashcards-common.git
 ```
+
+## License
+
+basic-flashcards-common is [MIT licensed](LICENSE).
